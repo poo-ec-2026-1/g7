@@ -28,5 +28,6 @@ public abstract class ItemLaboratorio {
         this.identificador = identificador;
     }
 }
+
   
  
