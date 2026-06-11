@@ -1,3 +1,4 @@
+
 public class Equipamento extends ItemLaboratorio {
 
     private String status;
@@ -24,5 +25,6 @@ public class Equipamento extends ItemLaboratorio {
 
     public String getLocalizacao() { return localizacao; }
     public void setLocalizacao(String localizacao) { this.localizacao = localizacao; }
+}
 }
 
